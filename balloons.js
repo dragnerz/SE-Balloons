@@ -1,3 +1,11 @@
+// SE Party Balloons
+//
+// written by Ky/dragnerz
+//
+// built using ComfyJS: https://github.com/instafluff/ComfyJS
+// Balloon HTML Canvas code by Logan Franken: https://www.loganfranken.com/blog/64/html5-canvas-balloon/
+
+
 const TWITCHUSER = "{{username}}"
 const OAUTH_USER = "{{ouath}}"
 
