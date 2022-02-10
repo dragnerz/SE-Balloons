@@ -32,7 +32,7 @@
     "type": "dropdown",
     "group": "Twitch Settings",
     "label": "Who can participate:",
-    "value": "vips",
+    "value": "broadcaster",
     "options": {
       "everybody": "Everybody",
       "subs": "Subs",
